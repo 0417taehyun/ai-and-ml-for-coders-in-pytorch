@@ -1,0 +1,13 @@
+[project]
+name = "ai-and-ml-for-coders-in-pytorch"
+version = "1.0.0"
+description = "AI and ML for Coders in PyTorch"
+readme = "README.md"
+authors = [
+    { name = "Taehyun Lee", email = "0417taehyun@gmail.com" }
+]
+requires-python = ">=3.13"
+dependencies = [
+    "numpy>=2.5.4",
+    "torch>=2.15.0",
+]
